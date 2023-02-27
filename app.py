@@ -48,7 +48,7 @@ def mostra_qntd_linhas(dataframe):
 
     st.write(dataframe.head(qntd_linhas).style.format(subset = ['Sigla']))
 
-st.image('/Users/robsonbrandao/Library/CloudStorage/OneDrive-usp.br/Projects/StreamlitCrai01/images/logocrai.jpg', width=100)
+st.image('logocrai.jpg', width=100)
 
 st.title('Olá CRAI 2023 :sunglasses:')
 
