@@ -1,0 +1,15 @@
+pandas
+seaborn
+matplotlib
+streamlit
+gensim
+nltk
+scikit-learn
+pillow
+streamlit-aggrid
+pyvis
+networkx
+nltk
+plotly
+
+
